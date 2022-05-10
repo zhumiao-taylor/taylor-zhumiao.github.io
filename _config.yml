@@ -22,3 +22,5 @@ navbar:
    link: "about"
  - name: "Resume"
    absolute-link: "https://zhumiao-taylor.github.io"
+
+theme: jekyll-theme-merlot
