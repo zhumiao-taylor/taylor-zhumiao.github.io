@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LeetCode Tricks
+title: Interview Code Tricks
 subtitle: Interviewing Needs Tricks.
 tags: [leetcode]
 ---
