@@ -1,15 +1,6 @@
-theme: jekyll-theme-merlot
-title: TaylorZ's Notes
-author: TaylorZ
-subtitle: The life of a frustrated engineer
-
-url: "https://zhumiao-taylor.github.io/"
-baseurl: "/"
-
-footer_only_homepage: true
-footer_url: "https://zhumiao-taylor.github.io/"
-footer_text: "taylorZ's Notes"
-
-favicon_location: assets/favicon.ico
-
-permalink: /:year-:month-:day-:title/
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
