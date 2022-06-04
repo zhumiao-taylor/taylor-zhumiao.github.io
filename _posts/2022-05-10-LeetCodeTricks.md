@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interview Code Tricks
+title: 各种搜索算法的模板
 subtitle: Interviewing Needs Tricks.
 tags: [leetcode]
 ---
